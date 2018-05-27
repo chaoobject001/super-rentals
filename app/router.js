@@ -10,6 +10,7 @@ Router.map(function() {
   // when user navigates to /about, run /app/route/about.js
   this.route('about');
   this.route('contact');
+  this.route('rentals');
 });
 
 export default Router;
